@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "pirahna plant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QMQD6ucgf6LNV2tMj6hHagHaHa%26pid%3DApi&f=1",
+      "price": "15",
+      "id": 8
+    },
+    {
+      "name": "pirahna plant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QMQD6ucgf6LNV2tMj6hHagHaHa%26pid%3DApi&f=1",
+      "price": "15",
+      "id": 9
+    },
+    {
+      "name": "pirahna plant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QMQD6ucgf6LNV2tMj6hHagHaHa%26pid%3DApi&f=1",
+      "price": "15",
+      "id": 10
+    },
+    {
+      "name": "pirahna plant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QMQD6ucgf6LNV2tMj6hHagHaHa%26pid%3DApi&f=1",
+      "price": "15",
+      "id": 11
     }
   ]
 }
